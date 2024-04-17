@@ -1,0 +1,54 @@
+/* common */
+body{
+    background-color: #212529;
+}
+/* Section Navbar */
+.nav-bg{
+    background-color: #212529;
+    padding: 10px 50px;
+}
+.nav-link{
+    color: white;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+/* Section Intro */
+
+.bigdaddy{
+    height: 30vh;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+/* Section Profile */
+#profile{
+    /* margin-top: 10px;  */
+    background-color: #212529;
+}
+
+/* section projects */
+
+.heading{
+    color: white;
+}
+
+.projectLogo{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.seemore{
+    color: #0dcaf0;
+    text-decoration: none;
+}
+
+/* Section contact */
+
+.footicon{
+    height: 30px;
+}
